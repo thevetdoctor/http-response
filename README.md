@@ -1,6 +1,6 @@
 # What is this?
 
-A simple http response library to reduce coe and simplify response handling in http request response cycle
+A simple http response library to reduce code and simplify response handling in http request response cycle
 
 # Installation
 
