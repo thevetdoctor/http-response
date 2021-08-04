@@ -1,0 +1,23 @@
+{
+  "name": "http-response",
+  "version": "1.0.0",
+  "description": "simple http response library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thevetdoctor/http-response.git"
+  },
+  "keywords": [
+    "http",
+    "response"
+  ],
+  "author": "obafemi oderanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thevetdoctor/http-response/issues"
+  },
+  "homepage": "https://github.com/thevetdoctor/http-response#readme"
+}
