@@ -1,5 +1,5 @@
 {
-  "name": "http-response",
+  "name": "oba-http-response",
   "version": "1.0.0",
   "description": "simple http response library",
   "main": "index.js",

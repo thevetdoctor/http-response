@@ -4,7 +4,7 @@ A simple http response library to reduce coe and simplify response handling in h
 
 # Installation
 
-`npm install http-response --save`
+`npm install oba-http-response --save`
 
 # Usage
 
@@ -36,7 +36,7 @@ A simple http response library to reduce coe and simplify response handling in h
 # Examples
 
 ```
-import { response } from 'http-response';
+import { response } from 'oba-http-response';
 
     exports.getUsers = async(req, res) => {
         try {
@@ -53,7 +53,7 @@ import { response } from 'http-response';
 
 
 
-const response = require('http-response'); 
+const response = require('oba-http-response'); 
     
     exports.getUsers = async(req, res) => {
         try {
